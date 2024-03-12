@@ -1,0 +1,10 @@
+http://localhost:8081/api/posts postmethod
+json object
+{
+  "title": "Ocean",
+  "description": "clear blue",
+  "content": "Vast"
+}
+title to be of min 4 character
+description to be of min 10 character
+content to be of min 2 character.for this data to be validated.
